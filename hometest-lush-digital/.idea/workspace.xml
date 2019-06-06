@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b72d9ff8-f4ae-4f13-af6a-b7d8202825b2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportTestResults" exportFormat="Xml" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="631">
+              <caret line="179" selection-start-line="179" selection-end-line="179" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/GetRequests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PostRequests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="64" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PutRequests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/DeleteRequests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/LoginPojo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/ProductPojo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/OrderPojo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/DeleteRequests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/GetRequests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/GetRequests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/ProductPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/LoginPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/OrderPojo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PutRequests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PostRequests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/DeleteRequests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-24" />
+    <option name="width" value="729" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lushdigital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hometest-lush-digital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hometest-lush-digital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lushdigital" type="462c0819:PsiDirectoryNode" />
+              <item name="api_requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559835318058" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PostRequests.verifyThatBuyingProductWorks">
+    <configuration name="DeleteRequests.deleteProductByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hometest-lush-digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometest.lushdigital.api_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometest.lushdigital.api_requests" />
+      <option name="MAIN_CLASS_NAME" value="hometest.lushdigital.api_requests.DeleteRequests" />
+      <option name="METHOD_NAME" value="deleteProductByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteRequests.verifyThatProductIsDeleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hometest-lush-digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometest.lushdigital.api_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometest.lushdigital.api_requests" />
+      <option name="MAIN_CLASS_NAME" value="hometest.lushdigital.api_requests.DeleteRequests" />
+      <option name="METHOD_NAME" value="verifyThatProductIsDeleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequests.createProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hometest-lush-digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometest.lushdigital.api_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometest.lushdigital.api_requests" />
+      <option name="MAIN_CLASS_NAME" value="hometest.lushdigital.api_requests.PostRequests" />
+      <option name="METHOD_NAME" value="createProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequests.verifyThatBuyingProductWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hometest-lush-digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometest.lushdigital.api_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometest.lushdigital.api_requests" />
+      <option name="MAIN_CLASS_NAME" value="hometest.lushdigital.api_requests.PostRequests" />
+      <option name="METHOD_NAME" value="verifyThatBuyingProductWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRequests.verifyThatProductIsCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hometest-lush-digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometest.lushdigital.api_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hometest.lushdigital.api_requests" />
+      <option name="MAIN_CLASS_NAME" value="hometest.lushdigital.api_requests.PostRequests" />
+      <option name="METHOD_NAME" value="verifyThatProductIsCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PostRequests.verifyThatBuyingProductWorks" />
+        <item itemvalue="JUnit.PostRequests.verifyThatProductIsCreated" />
+        <item itemvalue="JUnit.PostRequests.createProduct" />
+        <item itemvalue="JUnit.DeleteRequests.verifyThatProductIsDeleted" />
+        <item itemvalue="JUnit.DeleteRequests.deleteProductByID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b72d9ff8-f4ae-4f13-af6a-b7d8202825b2" name="Default Changelist" comment="" />
+      <created>1559773032446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559773032446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 15h 50m 28s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 15h 51m 05s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 15h 51m 46s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 15h 52m 24s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 16h 02m 38s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatProductIsCreated - 2019.06.06 at 16h 03m 01s.xml">
+      <configuration name="PostRequests.verifyThatProductIsCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatBuyingProductWorks - 2019.06.06 at 16h 13m 20s.xml">
+      <configuration name="PostRequests.verifyThatBuyingProductWorks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatBuyingProductWorks - 2019.06.06 at 16h 16m 06s.xml">
+      <configuration name="PostRequests.verifyThatBuyingProductWorks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatBuyingProductWorks - 2019.06.06 at 16h 20m 14s.xml">
+      <configuration name="PostRequests.verifyThatBuyingProductWorks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostRequests_verifyThatBuyingProductWorks - 2019.06.06 at 16h 35m 29s.xml">
+      <configuration name="PostRequests.verifyThatBuyingProductWorks" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30278233" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/PostRequests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/PutRequests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/DeleteRequests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/GetRequests.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/LoginPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/OrderPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hometest/lushdigital/model/ProductPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/DeleteRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/GetRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PutRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hometest/lushdigital/api_requests/PostRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="64" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
